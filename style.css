@@ -20,13 +20,13 @@ div#tswsidecol {
 	float: right ;
 	width: 20% ;
 	color: #000 ;
-	background-color: #E2AAF0 ;
+	background-color: #FCEEFF ;
 }
 div#tswcontent {
 	float: right ;
 	width: 80% ;
 	color: #000 ;
-	background-color: #F0F0AA ;
+	background-color: #E9CCF0 ;
 }
 @media only screen and (max-width: 629px) {
 	div#tswsidecol {
@@ -44,7 +44,7 @@ div#tswcontproper {
 }
 div#tswcontainer {
 	color: inherit ;
-	background-color: #E2AAF0 ;
+	background-color: #FCEEFF ;
 }
 div#tswsideproper, div#tswothersideproper {
 	padding-left: 5px ;
